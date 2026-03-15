@@ -1,3 +1,9 @@
+<div align="center">
+
 # T2I_OneStep
-[2026 CVPR]Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation
-coming soon
+
+<h3>[2026 CVPR] Extending One-Step Image Generation from Class Labels to Text <br> via Discriminative Text Representation</h3>
+
+> 🚧 Code and weights are coming soon! Stay tuned.
+
+</div>
