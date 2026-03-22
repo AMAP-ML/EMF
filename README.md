@@ -1,6 +1,6 @@
 <div align="center">
 
-# T2I_OneStep
+# EFM
 
 <h3>[2026 CVPR] Extending One-Step Image Generation from Class Labels to Text <br> via Discriminative Text Representation</h3>
 
